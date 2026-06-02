@@ -2,7 +2,7 @@
 
 ### Data scientist & Astrophysicist · Observatoire de la Côte d'Azur (Nice, France)
 
-> I build reliable, open-source scientific software for the world's largest observatories — turning raw data from the **VLTI** and the **James Webb Space Telescope** into science-ready measurements.
+> I build reliable, open-source scientific software for the world's largest observatories — turning raw data from the **Very Large Telescope Interferometer (VLTI)** and the **James Webb Space Telescope (JWST)** into science-ready measurements.
 
 PhD in Astrophysics & Engineering, 10+ years of Python, and a focus on what makes a tool actually usable by a whole community: reproducibility, testing, and clean releases. I work at the interface between research and operations — from pipeline development to instrument commissioning.
 
