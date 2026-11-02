@@ -1,6 +1,6 @@
 # Hi, I'm Anthony Soulain 👋
 
-### Data scientist & Astrophysicist · Observatoire de la Côte d'Azur (Nice, France)
+### Data engineer & Astrophysicist · Grenoble Electronique et Automatique (GEA, Meylan, France)
 
 > I build reliable, open-source scientific software for the world's largest observatories — turning raw data from the **Very Large Telescope Interferometer (VLTI)** and the **James Webb Space Telescope (JWST)** into science-ready measurements.
 
